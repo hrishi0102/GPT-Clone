@@ -18,7 +18,9 @@ git clone https://github.com/hrishi0102/GPT-Clone.git
 npm i
 ```
 
-3. Running the APP
+3. Create a new .env file and use your OpenAPI key
+
+4. Running the APP
 ```sh
 npm start
 ```
